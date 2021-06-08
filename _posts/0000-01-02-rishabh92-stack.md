@@ -1,7 +1,1 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
-To avoid getting an error, you might want to check if the file exists before you try to delete it
+COMPUTER PROGRAMMING is a step by step process of designing and developing various sets of computer programs to accomplish a specific computing outcome. The process comprises several tasks like analysis, coding, algorithm generation, checking accuracy and resource consumption of algorithms, etc. The purpose of computer programming is to find a sequence of instructions that solve a specific problem on a computer.
